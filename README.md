@@ -30,10 +30,6 @@ Este projeto foi criado para praticar:
 - Reutilização de elementos gráficos (ícones e miniaturas).
 - Compreensão básica de responsividade e UX/UI.
 
-## 📸 Preview
-
-![Screenshot do projeto](assets/image/youtube%201.png)
-
 ## ✍️ Autor
 
 Projeto desenvolvido por **[David-Santos]** — focado no aprimoramento de habilidades em HTML/CSS e recriação de interfaces populares para fins didáticos.
